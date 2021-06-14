@@ -1,0 +1,22 @@
+#Teste DevOPs
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Docker Jar
+src/main/docker/jar/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*~*
